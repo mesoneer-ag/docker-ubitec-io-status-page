@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/docker-ap-southeast-1.ubitec.io",
     "slug": "docker-ubitec-io-singapore",
     "status": "down",
-    "uptime": "13.04%",
-    "uptimeDay": "13.04%",
-    "uptimeWeek": "13.04%",
-    "uptimeMonth": "13.04%",
-    "uptimeYear": "13.04%",
-    "time": 957,
-    "timeDay": 957,
-    "timeWeek": 957,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
+    "time": 986,
+    "timeDay": 986,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2021-03-16": 0
+      "2021-03-16": 8
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/docker-eu-central-1.ubitec.io",
     "slug": "docker-ubitec-io-frankfurt",
     "status": "down",
-    "uptime": "9.85%",
-    "uptimeDay": "9.85%",
-    "uptimeWeek": "9.85%",
-    "uptimeMonth": "9.85%",
-    "uptimeYear": "9.85%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2021-03-16": 0
+      "2021-03-16": 8
     }
   }
 ]
