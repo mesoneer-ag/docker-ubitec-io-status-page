@@ -7,11 +7,11 @@ sites:
   - name: docker.ubitec.io Singapore
     url: https://docker-ap-southeast-1.ubitec.io/health
     headers:
-      - "Authorization: Bearer $DOCKER_UBITEC_IO_HEALTHCHECK_USER"
+      - "Authorization: Basic $DOCKER_UBITEC_IO_HEALTHCHECK_USER"
   - name: docker.ubitec.io Frankfurt
     url: https://docker-eu-central-1.ubitec.io/health
     headers:
-      - "Authorization: Bearer $DOCKER_UBITEC_IO_HEALTHCHECK_USER"
+      - "Authorization: Basic $DOCKER_UBITEC_IO_HEALTHCHECK_USER"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
