@@ -4,17 +4,17 @@
     "url": "https://docker-ap-southeast-1.ubitec.io/health",
     "icon": "https://favicons.githubusercontent.com/docker-ap-southeast-1.ubitec.io",
     "slug": "docker-ubitec-io-singapore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1228,
-    "timeDay": 1307,
-    "timeWeek": 1253,
-    "timeMonth": 1228,
-    "timeYear": 1228,
+    "time": 1214,
+    "timeDay": 1100,
+    "timeWeek": 1219,
+    "timeMonth": 1214,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2021-03-16": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 761,
-    "timeDay": 760,
-    "timeWeek": 854,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "time": 768,
+    "timeDay": 890,
+    "timeWeek": 869,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2021-03-16": 19
     }
