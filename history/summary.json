@@ -22,17 +22,17 @@
     "url": "https://docker-eu-central-1.ubitec.io/health",
     "icon": "https://favicons.githubusercontent.com/docker-eu-central-1.ubitec.io",
     "slug": "docker-ubitec-io-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 982,
-    "timeWeek": 857,
-    "timeMonth": 846,
-    "timeYear": 829,
+    "time": 884,
+    "timeDay": 3409,
+    "timeWeek": 1479,
+    "timeMonth": 1002,
+    "timeYear": 884,
     "dailyMinutesDown": {}
   }
 ]
