@@ -1,7 +1,7 @@
 url: https://docker-ap-southeast-1.ubitec.io/health
-status: up
-code: 200
-responseTime: 1255
-lastUpdated: 2022-12-12T23:02:15.200Z
+status: down
+code: 500
+responseTime: 2976
+lastUpdated: 2022-12-13T21:35:42.703Z
 startTime: Tue Mar 16 2021 07:46:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
