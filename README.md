@@ -1,5 +1,9 @@
 # [📈 Live Status](https://status.docker.ubitec.io): <!--live status--> **🟩 All systems operational**
 
+## DREPRECATION NOTICE
+
+As of 2023-05-11, this repository was archived. The reason was mainly because we moved to use other uptime monitoring services. The second reason was that the current Workflows used `ubuntu-18.04` which was deprecated by GitHub. This led to Actions could no longer be executed (got stuck in state `scheduled`). Merging back the repository to the upstream (`upptime/upptime`) required lots of effort. Therefore, we decided to retire this.
+
 This repository contains the open-source uptime monitor and status page for [ubitec AG](https://ubitec.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ubitechq/docker-ubitec-io-status-page/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
